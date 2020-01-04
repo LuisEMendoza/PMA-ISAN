@@ -4,10 +4,6 @@ navbar:
   left:
   - text: "Inicio "
     href: index.html
-  - text: "¿Cómo utilizar estos apuntes?"
-    href: Ayuda.html
-  - text: "Git y GitHub en RStudio"
-    href: GitHub_en_RStudio.html
   - text: "Contenido" 
     menu:
       - text: "Unidades"
@@ -23,7 +19,7 @@ navbar:
         href: U4.html
       - text: "Unidad 5"
         href: U5.html
-  - text: "Evidencias" 
+  - text: "Recursos " 
     menu:
       - text: "UNIDADES"
       - text: "Unidad 1"
