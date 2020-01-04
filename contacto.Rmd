@@ -2,6 +2,8 @@
 title: "Contacto"
 ---
 
+![](images/logo.png)
+
 ### Docente
 
 M. en E. Luis Enrique Mendoza Ruiz
