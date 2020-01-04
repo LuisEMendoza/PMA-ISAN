@@ -26,18 +26,18 @@ UNIDAD II. Estructura de los materiales.
 
 UNIDAD III. Propiedades de los materiales.
 
- 3.1. Eléctricas y magnéticas.
- 3.2. Térmicas.
- 3.3. Químicas.
- 3.4. Mecánicas.
+1. Eléctricas y magnéticas.
+2. Térmicas.
+3. Químicas.
+4. Mecánicas.
 
 UNIDAD IV. Aplicaciones de los materiales.
 
-4.1. Industria básica y extractiva.
-4.2. Industria metal-mecánicas.
-4.3. Fabricación de componentes eléctricos y electrónicos.
-4.4. Industria de la construcción.
-4.5. Agroindustria.
+1. Industria básica y extractiva.
+2. Industria metal-mecánicas.
+3. Fabricación de componentes eléctricos y electrónicos.
+4. Industria de la construcción.
+5. Agroindustria.
 
 ## Criterios de Evaluación.
 
@@ -49,3 +49,4 @@ Participación en clase | 5%
 Ejercicios y prototipos | 10%
 Reportes escritos de observaciones e información recopilada | 5%
 Exámenes | 60%
+_TOTAL_ | 100%

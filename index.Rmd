@@ -6,4 +6,4 @@ title: "Instituto Superior de Administración y Negocios"
 
 ## Asignatura
 
-#### __Propiedades de los Materiales__
+### __Propiedades de los Materiales__
