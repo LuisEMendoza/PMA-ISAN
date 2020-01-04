@@ -12,24 +12,15 @@ navbar:
       - text: "Unidad 1"
         href: U1.html
       - text: "Unidad 2"
-        href: U2.html
       - text: "Unidad 3"
-        href: U3.html
       - text: "Unidad 4"
-        href: U4.html
-      - text: "Unidad 5"
-        href: U5.html
   - text: "Recursos " 
     menu:
       - text: "UNIDADES"
       - text: "Unidad 1"
-      - text: "EP1"
-        href: U1-EP1.html
-      - text: "EP2"
-        href: U1-EP2.html
       - text: "Unidad 2"
-      - text: "EP1"
-        href: U2-EP1.html
+      - text: "Unidad 3"
+      - text: "Unidad 4"
   - text: "Contacto"
     href: contacto.html
 output:
