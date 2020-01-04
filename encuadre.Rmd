@@ -10,26 +10,26 @@ Identificar las características y propiedades de los materiales para su aplicac
 
 UNIDAD I. Clasificación de los materiales.
 
-1.1. Generalidades.
-1.2. Materiales puros.
-1.3. Aleaciones ferrosas y no ferrosas.
-1.4. Materiales orgánicos y no orgánicos.
-1.5. Materiales cerámicos.
+1. Generalidades.
+2. Materiales puros.
+3. Aleaciones ferrosas y no ferrosas.
+4. Materiales orgánicos y no orgánicos.
+5. Materiales cerámicos.
   
 UNIDAD II. Estructura de los materiales.
 
-2.1. Estructura cristalina y su consecuencia en las propiedades.
-2.2. Materiales puros.
-2.3. Aleaciones ferrosas y no ferrosas.
-2.4. Materiales orgánicos y no orgánicos.
-2.5. Materiales cerámicos.
+1. Estructura cristalina y su consecuencia en las propiedades.
+2. Materiales puros.
+3. Aleaciones ferrosas y no ferrosas.
+4. Materiales orgánicos y no orgánicos.
+5. Materiales cerámicos.
 
 UNIDAD III. Propiedades de los materiales.
 
-3.1. Eléctricas y magnéticas.
-3.2. Térmicas.
-3.3. Químicas.
-3.4. Mecánicas.
+ 3.1. Eléctricas y magnéticas.
+ 3.2. Térmicas.
+ 3.3. Químicas.
+ 3.4. Mecánicas.
 
 UNIDAD IV. Aplicaciones de los materiales.
 
